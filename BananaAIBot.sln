@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BananaAIBot", "BananaAIBot\BananaAIBot.csproj", "{BB61DB97-F9BD-4797-8193-75FAB24D9967}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{715247B2-8F17-4782-8C30-BBC736E60FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BananaAIBot_ResponsesTests", "BananaAIBot_ResponsesTests\BananaAIBot_ResponsesTests.csproj", "{9E3D55A4-3A85-4AA4-8544-9F6D3106D269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB61DB97-F9BD-4797-8193-75FAB24D9967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB61DB97-F9BD-4797-8193-75FAB24D9967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB61DB97-F9BD-4797-8193-75FAB24D9967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB61DB97-F9BD-4797-8193-75FAB24D9967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3D55A4-3A85-4AA4-8544-9F6D3106D269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3D55A4-3A85-4AA4-8544-9F6D3106D269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3D55A4-3A85-4AA4-8544-9F6D3106D269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3D55A4-3A85-4AA4-8544-9F6D3106D269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9E3D55A4-3A85-4AA4-8544-9F6D3106D269} = {715247B2-8F17-4782-8C30-BBC736E60FBC}
+	EndGlobalSection
+EndGlobal
